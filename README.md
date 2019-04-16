@@ -12,6 +12,6 @@ Generalized predictive controle tests as proposed by [1] adn [2].
 * carima_model_forced_free_response: example to see the behavior of optimal prediction of carima model used in GPC under uncertainty and noise
 
 
-[1] Carlos Bordons and E. F. Camacho, Model Predictive Control in the Process Industry
-[2] Carlos Bordons and E. F. Camacho, Model Predictive Control
+[1] Carlos Bordons and E. F. Camacho, Model Predictive Control in the Process Industry  
+[2] Carlos Bordons and E. F. Camacho, Model Predictive Control  
 [3] Plinio Castrucci, Roberto Moura Sales; Controle Digital
